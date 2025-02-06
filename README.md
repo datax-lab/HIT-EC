@@ -1,4 +1,5 @@
-# HIT-EC
+# HIT-EC: Trustworthy prediction of enzyme commission numbers using a hierarchical interpretable transformer
+## Louis Dumontet†, So-Ra Han†, Tae-Jin Oh and Mingon Kang 
 
 ## 1. Abstract 
 
