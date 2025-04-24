@@ -17,4 +17,4 @@ Torch == 1.13.1
 PyTorch Lightning == 1.9.0  
 Numpy == 1.23.5
 
-Check the Demo notebook to get started. 
+Check the Demo notebook to get started. The model weights are avalaible in the first release 'Model weights'
