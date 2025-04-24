@@ -10,7 +10,7 @@
 
 ## 2. Requirements
 
-The manuscript resulsts were obtained with: 
+The manuscript results were obtained with: 
 
 Python == 3.9.16  
 Torch == 1.13.1  
