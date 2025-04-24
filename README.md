@@ -12,7 +12,7 @@
 
 The manuscript resulsts were obtained with: 
 
-Python == 3.9.16
-Torch == 1.13.1
-PyTorch Lightning == 1.9.0
+Python == 3.9.16  
+Torch == 1.13.1  
+PyTorch Lightning == 1.9.0  
 Numpy == 1.23.5
