@@ -90,8 +90,7 @@ class Model(pl.LightningModule):
             opt_inter.zero_grad(set_to_none=True)
         else:
             opt_inter.step()
-    
-        opt_inter.step()
+
         self.untoggle_optimizer(opt_inter)
 
         return loss_inter
