@@ -27,6 +27,19 @@ git clone https://github.com/datax-lab/HIT-EC.git
 cd HIT-EC
 pip install -r requirements.txt
 ```
+---
+
+## 🌐 Online Model Predictions & Interpretations
+
+You can use HIT-EC directly through our interactive web platform:
+
+👉 **Website:** [https://enzymex.dataxlab.org/](https://enzymex.dataxlab.org/)
+
+The website allows you to:
+
+* Upload FASTA sequences
+* Run HIT-EC predictions
+* Visualize contribution scores
 
 ---
 
